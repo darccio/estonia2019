@@ -58,11 +58,13 @@ class: impact
 - 2000: primer consell de ministres sense papers
 - 2001: posada en marxa d'X-Road
 - 2005: primeres eleccions amb e-Voting
+- 2007: atacs ciberterroristes
 - 2014: llençament d'e-Residency
 
 ???
 
-- tiigrihüpe: tiigrijiupe (salt del tigre)
+- tiigrihüpe: tiigrijiupe (salt del tigre), programa d'alfabetisme digital
+- Hostatgen el Centre d'Excel·lència de Cooperació en Ciber Defensa de l'OTAN
 
 ---
 
@@ -85,7 +87,7 @@ tonia has become a tech utopia” (Matthews, 2018)
 
 ???
 
-Consultar
+Consultar la sala
 
 ---
 
@@ -147,17 +149,40 @@ Consultar
 - S'allibera el codi font el 2016
 - Finlàndia i Estònia connecten les seves xarxes el 2017
 
+???
+
+- Controls d'accés
+- Privacitat per disseny
+- https://github.com/nordic-institute/X-Road/blob/develop/doc/README.md
+- https://github.com/nordic-institute/X-Road/blob/develop/doc/Architecture/arc-g_x-road_arhitecture.md#1-introduction
+
+---
+
+![](x-road.png)
+
 ---
 
 # eID
+
+- Sistema d'identitat basat en infraestructura de clau pública (PKI)
+- Primera legislació: 1999
+- PGP: Phil Zimmermann, 1991
+
+---
+
+## Criptografia asimètrica
 
 ---
 
 # IVXV
 
+- Sistema de vot (segona iteració)
+- Primera legislació: 2002
+
 ???
 
 - No permet fer vot nul, tret que tinguis coneixements per manipular l'aplicació de votació (Piraadi).
+- https://courses.cs.ut.ee/MTAT.03.307/2017_spring/uploads/Main/slides11.pdf
 
 ---
 
@@ -166,6 +191,14 @@ Consultar
 ???
 
 - La infraestructura més popular pel seu impacte global.
+
+---
+
+# És possible a Catalunya?
+
+???
+
+- Un factor important és la mida del país.
 
 ---
 
