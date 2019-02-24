@@ -1,0 +1,23 @@
+{
+  "name": "estonia2019",
+  "version": "0.0.1",
+  "description": "",
+  "main": "presentation.md",
+  "dependencies": {
+    "backslide": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imdario/estonia2019.git"
+  },
+  "author": "Dario Castañé",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/imdario/estonia2019/issues"
+  },
+  "homepage": "https://github.com/imdario/estonia2019#readme"
+}
