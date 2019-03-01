@@ -1,19 +1,19 @@
 // Theme
 // ---------------------------------------------------------------------------
 
-$primary          : #3F51B5;
-$secondary        : #009688;
-$tertiary         : #757575;
+$primary          : #0072ce;
+$secondary        : rgb(0, 204, 143);
+$tertiary         : rgb(204, 0, 10);
 $light            : #FFF;
 $dark             : #333;
 $text-dark        : #212121; 
 $text-light       : $light;
 $code-background  : #F8F8F8;
 $overlay          : transparentize(#000, .5);
-$font-size        : 28px;
-$font-size-impact : 128px;
-$font             : Arial, Helvetica, sans-serif;
-$font-title       : Arial, Helvetica, sans-serif;
+$font-size        : 33px;
+$font-size-impact : 2em;
+$font             : 'Aino', sans-serif;
+$font-title       : 'Aino Headline', sans-serif;
 $font-fixed       : 'Lucida Console', Monaco, monospace;
 $margin           : 20px;
 $iframe-scale     : 1.5;
@@ -27,6 +27,8 @@ body { font-family: $font; }
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 $margin 0;
   font-family: $font-title;
+  font-weight: 400;
+  font-size: 1.5em;
 }
 h1 { color: $primary; }
 h2 { color: $secondary; }
@@ -78,7 +80,7 @@ blockquote {
 .impact {
   background-color: $primary;
   vertical-align: middle;
-  text-align: center;
+  text-align: left;
   &, h1, h2 { color: $text-light; }
   h1 { font-size: $font-size-impact; }
 }
